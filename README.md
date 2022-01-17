@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AryanAg08
-- 👀 I’m interested in coding discord boys🤖
+- 👀 I’m interested in coding discord bots🤖
 - 🌱 I’m currently learning how to enioy my life 😂
 - 💞️ I’m looking to collaborate on amazing projects
 - 📫 How to reach me you can contact me on my email aryangoyal625@gmail.com
