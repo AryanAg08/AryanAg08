@@ -7,10 +7,10 @@
 
 ### Languages and Tools
 <code><img height="20" src= "https://github.com/AryanAg08/AryanAg08/blob/main/js.png"></code>
-<code><img height="20" src= "https://github.com/AryanAg08/AryanAg08/blob/main/react.png"></code>
-<code><img height="20" src= "https://github.com/AryanAg08/AryanAg08/blob/main/nodejs.png"></code>
+<code><img height="20" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src= "https://github.com/AryanAg08/AryanAg08/blob/main/mongo.png"></code>
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 [![Aryan's Github stats](https://github-readme-stats.vercel.app/api?username=AryanAg08&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
