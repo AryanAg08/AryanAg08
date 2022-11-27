@@ -17,4 +17,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanAg08)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Aryan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AryanAg08)](https://github.com/anuraghazra/github-readme-stats)
+[![Aryan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ag_08)](https://github.com/anuraghazra/github-readme-stats)
