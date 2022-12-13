@@ -12,10 +12,9 @@
 <code><img height="20" src= "https://github.com/AryanAg08/AryanAg08/blob/main/mongo.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+### Coding Time: 
+[![wakatime](https://wakatime.com/badge/user/45386be9-c080-4d15-bf25-47dd4b4c0ca3.svg)](https://wakatime.com/@45386be9-c080-4d15-bf25-47dd4b4c0ca3)
+
 [![Aryan's Github stats](https://github-readme-stats.vercel.app/api?username=AryanAg08&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanAg08)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Aryan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ag_08)](https://github.com/anuraghazra/github-readme-stats)
-[![wakatime](https://wakatime.com/badge/user/45386be9-c080-4d15-bf25-47dd4b4c0ca3.svg)](https://wakatime.com/@45386be9-c080-4d15-bf25-47dd4b4c0ca3)
