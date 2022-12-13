@@ -18,3 +18,4 @@
 
 
 [![Aryan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ag_08)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime](https://wakatime.com/badge/user/45386be9-c080-4d15-bf25-47dd4b4c0ca3.svg)](https://wakatime.com/@45386be9-c080-4d15-bf25-47dd4b4c0ca3)
