@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @AryanAg08<br>👀 I’m interested in coding discord bots🤖<br>🌱 I’m currently learning how to enjoy my life 😂<br>💞️ I’m looking to collaborate on amazing projects<br>📫 How to reach me you can contact me on my email aryangoyal625@gmail.com
+👋 Hi, I’m @AryanAg08<br>👀 I’m interested in coding discord bots🤖<br>🌱 I’m currently learning how to enjoy my life 😂<br>💞️ I’m looking to collaborate on amazing projects<br>📫 How to reach me you can contact me on my email aryangoyal90@outlook.com
 
 
 ## 🌐 Socials:
