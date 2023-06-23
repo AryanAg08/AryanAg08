@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AryanAg08&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AryanAg08&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanAg08&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/username=AryanAg08&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AryanAg08&theme=radical&no-frame=false&no-bg=true&margin-w=4)
