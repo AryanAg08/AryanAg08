@@ -19,8 +19,8 @@ Hi !!👋 Aryan this side.  am a full-stack developer with expertise in MongoDB,
 ![](https://github-contributor-stats.vercel.app/api?username=AryanAg08&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AryanAg08&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![](https://visitcount.itsvg.in/api?id=AryanAg08&label=Profile%20Views&color=8&icon=8&pretty=false)](https://visitcount.itsvg.in)
 
   ## 🧑‍💻 My work
   [![Discord Bots](https://top.gg/api/widget/790503195620671498.svg)](https://top.gg/bot/790503195620671498)
